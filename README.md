@@ -13,3 +13,5 @@ Ejemplo de uso de las preferencias de usuario en Flutter
 - Implementar un singleton para aumentar la eficiencia del mismo.
 
 - Uso de Widgets como RadioButton, switch y TextField
+
+- Uso del DrawerMenu 
